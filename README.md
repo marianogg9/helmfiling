@@ -1,4 +1,4 @@
-# Helmfiling
+# Helmfile(ing)
 
 Running an example [Helmfile](https://helmfile.readthedocs.io/en/latest/) release deploying [httpbin](https://httpbin.org/) app in [Minikube](https://minikube.sigs.k8s.io/docs/start/).
 
