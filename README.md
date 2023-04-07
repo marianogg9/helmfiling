@@ -23,12 +23,12 @@ Please have a look at the [blog article]() I wrote for a better overview.
 └── values.yaml.gotmpl
 ```
 
-- `charts/` contains a minimal `httpbin` Helm chart definition and all the resources templates.
-- `default-values.yaml` are the `default` environment values.
+- `charts/` contains a minimal `httpbin` Helm chart definition and all the resources' templates.
+- `default-values.yaml` is the `default` environment set of values.
 - `environments.taml` defines both `default` and `example` environments with their respective values files.
-- `example-environment-values.yaml` are the `example` environment values.
+- `example-environment-values.yaml` is the `example` environment set of values.
 - `helmfile.yaml` is where all releases are defined.
-- `values.yaml.gotmpl` uses GO templating to reference different values. This template will be used as a central reference to be used by different environments.
+- `values.yaml.gotmpl` uses GO templating to reference different values. This template will be used as a centralised definition to be used by different environments.
 
 ## Installation
 
