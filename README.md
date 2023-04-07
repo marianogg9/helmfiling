@@ -61,7 +61,7 @@ minikube start
 
 Clone this repository.
 ```bash
-git clone 
+git clone https://github.com/marianogg9/helmfiling.git
 cd helmfiling
 ```
 
