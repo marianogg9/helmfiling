@@ -23,7 +23,7 @@ Please have a look at the [blog article]() I wrote for a better overview.
 └── values.yaml.gotmpl
 ```
 
-- `charts/` contains `httpbin` Helm chart definition and all the resources templates.
+- `charts/` contains a minimal `httpbin` Helm chart definition and all the resources templates.
 - `default-values.yaml` are the `default` environment values.
 - `environments.taml` defines both `default` and `example` environments with their respective values files.
 - `example-environment-values.yaml` are the `example` environment values.
