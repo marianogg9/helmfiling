@@ -80,7 +80,7 @@ To check deployment status.
 helmfile status
 ```
 
-And are many more [CLI commands](https://helmfile.readthedocs.io/en/latest/#cli-reference) to explore.
+And many more [CLI commands](https://helmfile.readthedocs.io/en/latest/#cli-reference) to explore.
 
 
 ## Updating
