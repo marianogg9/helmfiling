@@ -2,7 +2,7 @@
 
 Running an example [Helmfile](https://helmfile.readthedocs.io/en/latest/) release deploying [httpbin](https://httpbin.org/) app in [Minikube](https://minikube.sigs.k8s.io/docs/start/).
 
-Please have a look at the [blog article]() I wrote for a better overview.
+Please have a look at the [blog article](https://blog.mariano.cloud/helm-declaration-environments-helmfile) I wrote for a better overview.
 
 ## Schema
 
